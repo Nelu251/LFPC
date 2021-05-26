@@ -15,4 +15,4 @@ Variant 10;
 Lab 3 Program result 
 
 Variant 9
-![](images/Screenshot 3.png)
+![](images/Screenshot3.png)
