@@ -10,3 +10,9 @@ Lab 2 Program result
 Variant 10;
 
 ![](images/Screenshot2.png)
+
+
+Lab 3 Program result 
+
+Variant 9
+![](images/Screenshot 3.png)
