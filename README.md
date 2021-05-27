@@ -1,3 +1,4 @@
+
 # LFPC
 Lab 1 program result:
 Variant-23
@@ -15,4 +16,4 @@ Variant 10;
 Lab 3 Program result 
 
 Variant 9
-![](images/image3.png)
+![image3](https://user-images.githubusercontent.com/57180830/119746011-14e83200-be98-11eb-9c4a-6429a50ef8b1.png)
