@@ -16,4 +16,5 @@ Variant 10;
 Lab 3 Program result 
 
 Variant 9
+![Screenshot 2021-05-27 030504](https://user-images.githubusercontent.com/57180830/119746126-60024500-be98-11eb-8889-728aeb9d25fa.png)
 ![image3](https://user-images.githubusercontent.com/57180830/119746011-14e83200-be98-11eb-9c4a-6429a50ef8b1.png)
